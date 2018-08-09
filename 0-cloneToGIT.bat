@@ -1,0 +1,1 @@
+C:\xampp\mysql\bin\mysqldump -u root gb_main_db > C:\git\mysql.sql
