@@ -34,7 +34,7 @@ CREATE TABLE `invoice` (
   `i_address` varchar(255) NOT NULL,
   `approved` int(1) NOT NULL,
   PRIMARY KEY (`i_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=16133 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=16134 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -112,4 +112,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-08-13 16:21:42
+-- Dump completed on 2018-08-13 17:13:25
